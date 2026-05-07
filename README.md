@@ -5,26 +5,7 @@
 - Interested in engineering, automation, web development, learning notes, and open-source projects.
 
 
-## Languages & Tools
 
-| Language | What I Use It For | Status |
-| --- | --- | --- |
-| Rust | CLI tools, backend services, systems programming, performance-sensitive experiments | Main |
-| TypeScript | Web apps, frontend engineering, Node.js tools, typed application logic | Main |
-| Python | Automation scripts, data processing, small tools, learning experiments | Main |
-| Markdown | Documentation, notes, project records, README writing | Daily |
-| Git / GitHub | Version control, project management, open-source collaboration | Daily |
-
-## GitHub Situation
-
-| Item | Details |
-| --- | --- |
-| Profile | `LinearFlare` |
-| Main Languages | Rust, TypeScript, Python |
-| Repository Content | Projects, experiments, notes, tools, and open-source practice |
-| Current Focus | Building reliable tools, improving engineering habits, and keeping projects documented |
-| Working Style | Make it work first, then improve structure, quality, performance, and docs |
-| Goal | Keep learning, keep building, and keep shipping valuable work |
 
 <!--START_SECTION:waka-->
 
