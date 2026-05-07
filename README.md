@@ -4,7 +4,6 @@
 - Mainly using **Rust**, **TypeScript**, and **Python**.
 - Interested in engineering, automation, web development, learning notes, and open-source projects.
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ## Languages & Tools
 
