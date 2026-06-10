@@ -15,6 +15,6 @@
 
 ### Count Number
 
-![LinearFlare](https://count.getloli.com/get/@LinearFlare?theme=booru-helltaker)
+![LinearFlare](https://count.getloli.com/get/@LinearFlare?theme=booru-touhoulat)
 
 
